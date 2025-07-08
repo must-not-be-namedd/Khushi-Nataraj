@@ -1,13 +1,14 @@
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/KhushiNataraj/KhushiNataraj/main/assets/khushi-banner.gif" alt="Khushi Nataraj Banner" />
 </p>
 
-<h1 align="center" style="font-family: 'Neon Spark', sans-serif; font-size: 3rem; color: #00FFF7;">Heyya! I'M KHUSHI NATARAJ</h1>
-<h3 align="center" style="font-family: 'Neon Spark', sans-serif; color: #FF5DDD;">Where Code Speaks and Vibes Build</h3>
+<h1 align="center" style="font-family: 'Neon Spark', sans-serif; font-size: 3rem; color: #00FFF7;">
+  Heyya! I'M KHUSHI NATARAJ
+</h1>
+<h3 align="center" style="font-family: 'Neon Spark', sans-serif; color: #FF5DDD;">
+  Where Code Speaks and Vibes Build
+</h3>
 
----
 
 ### 🔥 About Me
 
