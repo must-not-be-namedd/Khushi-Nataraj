@@ -9,10 +9,10 @@
 
 ### 🔥 About Me
 
-- 🎓 2nd Year B.Tech CSE @ **BMS College of Engineering**, GPA: **9.9**
-- 💻 I build AI-powered apps, full stack web experiences, and everything in between
-- 👩‍💻 Technical Head @ **Protocol Club**, Creator of official BMSCE placement app
-- 🧠 Passionate about **Java, MERN Stack, AI**, and **Hackathons**
+- 🎓 2nd Year B.Tech CSE @ **BMS College of Engineering**, GPA: **9.83**
+- 💻 I build AI-powered Mobile Apps, Full Stack Web Experiences, and everything in between
+- 👩‍💻 Technical Head @ **Protocol Club**, Created my-version of the BMSCE Placement Statistics app
+- 🧠 Passionate about **Python, MERN Stack, Gen AI, LeetCode**, and **Hackathons**
 - 🌈 Designing cool things with **Photoshop, Canva & Gamma A.I.**
 - 🪄 Currently exploring **LLMs, Flutter, and Smart Tech Integration**
 
