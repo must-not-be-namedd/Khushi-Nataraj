@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khushi Nataraj</h1>
+<h1 align="center">Heyya! 👋, I'm Khushi Nataraj</h1>
 <h3 align="center">Where Code Speaks and Vibes Build 💫 | BMSCE'27 | Tech x Creativity 🎨⚙️</h3>
 
 <p align="center">
@@ -70,5 +70,5 @@
 
 🪄 Let’s connect and build the future together!
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
