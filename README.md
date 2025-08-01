@@ -18,15 +18,15 @@
 
 ---
 
-### 🚀 My Top Projects
+## 🚀 My Top Projects
 
 | Project | Description | Tech Stack | Live / Code |
 |--------|-------------|------------|-------------|
-| 📊 **Placement Stats App** | App to track companies, salaries, mock interviews & resume help for BMSCE | MongoDB, Express, Node, HTML/CSS/JS | [View](https://must-not-be-namedd.github.io/proto_website/) |
-| 🤖 **AI Traffic Manager** | LiDAR + TensorFlow-based smart traffic optimization system | Python, TensorFlow, AI/ML | — |
-| 💼 **Portable Electronics Manager** | Rent electronics seamlessly with full-stack interface | MERN Stack, SQL | — |
-| 🔍 **Smart WhatsApp Mod** | Anti-ghosting, meeting scheduler, meme-gen, LLM APIs | JavaScript, LLM APIs | — |
-| 🧠 **Protocol Club Website** | Official club site with chatbot integration | HTML, CSS, JS, Chatbot | [View](https://must-not-be-namedd.github.io/proto_website/) |
+| 📊 **CampusPlacify** | Real-time placement analytics, company stats, and student insights. | React/Vite, Node.js, PostgreSQL | [Live](https://must-not-be-namedd.github.io/MyBMSPlacementTracker/) / [Code](https://must-not-be-namedd.github.io/MyBMSPlacementTracker/) |
+| 🧠 **Protocol Website** | Responsive website for Protocol Club with sleek UI & chatbot. | HTML5, CSS, JS | [Live](https://must-not-be-namedd.github.io/proto_website/) / [Code](https://github.com/must-not-be-namedd/proto_website) |
+| 💰 **PayScale AI** | AI engine that predicts salaries using ML & market trends. | Python, TensorFlow, Data Science | / [Code](https://github.com/must-not-be-namedd/ml_SalaryPrediction) |
+| 💬 **Schrödinger's Chat** | WhatsApp mod with Time-Travel Search, AI tools & smart messaging. | React/Next.js, Node.js, MongoDB | [Live](https://schrodingerschat.netlify.app/) / [Code](https://github.com/must-not-be-namedd/message-mingle-magic) |
+| 💼 **Electronics Manager** | Rent and manage devices with real-time inventory sync. | HTML5, CSS3, JavaScript, SQL, MongoDB | [Live](https://github.com/must-not-be-namedd/FULL_STACK) / [Code](https://github.com/must-not-be-namedd/FULL_STACK) |
 
 ---
 
