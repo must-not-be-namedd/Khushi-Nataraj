@@ -22,11 +22,11 @@
 
 | Project | Description | Tech Stack | Live / Code |
 |--------|-------------|------------|-------------|
-| 📊 **CampusPlacify** | Real-time placement analytics, company stats, and student insights. | React/Vite, Node.js, PostgreSQL | [Live](https://must-not-be-namedd.github.io/MyBMSPlacementTracker/) / [Code](https://must-not-be-namedd.github.io/MyBMSPlacementTracker/) |
+| 📊 **CampusPlacify** | Real-time placement analytics, company stats, and student insights. | React/Vite, Node.js, PostgreSQL | [Live](https://must-not-be-namedd.github.io/MyBMSPlacementTracker/) / [Code](https://github.com/must-not-be-namedd/MyBMSPlacementTracker) |
 | 🧠 **Protocol Website** | Responsive website for Protocol Club with sleek UI & chatbot. | HTML5, CSS, JS | [Live](https://must-not-be-namedd.github.io/proto_website/) / [Code](https://github.com/must-not-be-namedd/proto_website) |
-| 💰 **PayScale AI** | AI engine that predicts salaries using ML & market trends. | Python, TensorFlow, Data Science | / [Code](https://github.com/must-not-be-namedd/ml_SalaryPrediction) |
+| 💰 **PayScale AI** | AI engine that predicts salaries using ML & market trends. | Python, TensorFlow, Data Science | [Code](https://github.com/must-not-be-namedd/ml_SalaryPrediction) |
 | 💬 **Schrödinger's Chat** | WhatsApp mod with Time-Travel Search, AI tools & smart messaging. | React/Next.js, Node.js, MongoDB | [Live](https://schrodingerschat.netlify.app/) / [Code](https://github.com/must-not-be-namedd/message-mingle-magic) |
-| 💼 **Electronics Manager** | Rent and manage devices with real-time inventory sync. | HTML5, CSS3, JavaScript, SQL, MongoDB | [Live](https://github.com/must-not-be-namedd/FULL_STACK) / [Code](https://github.com/must-not-be-namedd/FULL_STACK) |
+| 💼 **Electronics Manager** | Rent and manage devices with real-time inventory sync. | HTML5, CSS3, JavaScript, SQL, MongoDB | [Live](https://must-not-be-namedd.github.io/FULL_STACK/) / [Code](https://github.com/must-not-be-namedd/FULL_STACK) |
 
 ---
 
